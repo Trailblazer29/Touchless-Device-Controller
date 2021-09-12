@@ -6,6 +6,6 @@ As a Gesture Recognition application, this project aims at simulating a complete
 
 ![Hand Landmarks](hand_landmarks.png)
 
-* The second functionlity of this project is to adjust the volume of the device (increase, decrease, mute and unmute sound) using the device's camera (distance [Volume Controller](https://github.com/Trailblazer29/Gesture-Desktop-Controller/blob/main/volume_control.py)). 
+* The second functionlity of this project is to adjust the volume of the device (increase, decrease, mute and unmute sound), with the help of the [PyCaw library](https://github.com/AndreMiras/pycaw), using the device's camera (distance [Volume Controller](https://github.com/Trailblazer29/Gesture-Desktop-Controller/blob/main/volume_control.py)).
 
 *The code is optimized continuously, and more functionalities will be added soon...*
